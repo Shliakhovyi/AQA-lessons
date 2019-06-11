@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d84b28a-39a5-46f5-8d18-3b9b9d7996cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6d84b28a-39a5-46f5-8d18-3b9b9d7996cc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/collectionsHT/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#1141#1142#0" expanded="true" />
                 <element signature="e#1160#1161#0" expanded="true" />
@@ -45,6 +39,19 @@
                 <element signature="e#1024#1025#0" expanded="true" />
                 <element signature="e#1112#1113#0" expanded="true" />
                 <element signature="e#1152#1153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collectionsHT/ListTask2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1337#1338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson6/ArraysLoopExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson6/ArrayToString.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson6/TaskLessonOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson1/BubbleSort.java" />
@@ -117,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/main/java/trello/api/TrelloApiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/trello/api/TrelloApi.java" />
         <option value="$PROJECT_DIR$/src/main/java/collectionsHT/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collectionsHT/ListTask2.java" />
       </list>
     </option>
   </component>
@@ -210,7 +217,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.ListTask2">
+    <configuration name="ListTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsHT.ListTask2" />
+      <module name="AQA-lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionsHT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collectionsHT.Solution" />
       <module name="AQA-lessons" />
@@ -230,19 +250,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.UseAbstract" />
-      <module name="HighwayTH2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,19 +294,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UseAbstract" />
       <item itemvalue="Application.SortExample" />
       <item itemvalue="TestNG.GetRequest.tryIt" />
       <item itemvalue="TestNG.TrelloApiTest.tryIt" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.ListTask2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTask2" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="TestNG.TrelloApiTest.tryIt" />
         <item itemvalue="TestNG.GetRequest.tryIt" />
         <item itemvalue="Application.SortExample" />
-        <item itemvalue="Application.UseAbstract" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +366,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1440" height="803" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17095852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -376,7 +382,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993565" weight="0.32843792" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993565" weight="0.32831" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993565" weight="0.32770744" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006435" side_tool="true" weight="0.25100133" />
@@ -419,13 +425,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/SeleniumNavigation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -762,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/collectionsHT/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#1141#1142#0" expanded="true" />
             <element signature="e#1160#1161#0" expanded="true" />
@@ -771,6 +770,17 @@
             <element signature="e#1024#1025#0" expanded="true" />
             <element signature="e#1112#1113#0" expanded="true" />
             <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collectionsHT/ListTask2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
           </folding>
         </state>
       </provider>
