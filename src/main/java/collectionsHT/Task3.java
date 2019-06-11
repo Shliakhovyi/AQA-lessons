@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ListTask3 {
+public class Task3 {
     public static void main(String[] args) throws Exception {
         List<Integer> integerList = getIntegerList();
         System.out.println(getMinimum(integerList));

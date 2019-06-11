@@ -2,7 +2,7 @@ package collectionsHT;
 
 import java.util.*;
 
-public class Solution {
+public class Task1 {
     public static void main(String[] args) {
         Set<Cat> cats = createCats();
         Set<Dog> dogs = createDogs();
