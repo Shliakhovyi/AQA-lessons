@@ -20,7 +20,7 @@ public class Movie implements Comparable {
     @Override
     public int compareTo(Object o) {
         Movie m = (Movie)o;
-        return (score < m.score) ? -1 : ((score == m.score) ? 0 : 1);
+        return Double.compare(score, m.score);
     }
 
     @Override
